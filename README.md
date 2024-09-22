@@ -6,7 +6,6 @@ I'm a M.S. student in Computer Science at Northwestern University, with a focus 
 - 🧠 **Large Language Models (LLMs)**: Leveraging **LLMs** for more intuitive and effective human-robot communication.
 - 🤖 **Residual Reinforcement Learning**: Optimizing low-level manipulation control in robotics through reinforcement learning.
 - 🦾 **Human-Assistive Robotics**: Developing intelligent systems that enhance the quality of life by assisting humans in daily tasks, rehabilitation, and collaborative activities, integrating **LLMs** to improve interaction and adaptability.
-- 
 
 ## 💡 Areas of Expertise:
 - **Reinforcement Learning** (PPO, DDPG, SAC, A2C, and more.)
