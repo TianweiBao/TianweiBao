@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a M.S. student in Computer Science at Northwestern University, with a focus on **robotics**
+I'm an M.S. student in Computer Science at Northwestern University, specializing in **robotics**
 
 ## 🔭 My research interests lie at the intersection of cutting-edge fields like:
 
