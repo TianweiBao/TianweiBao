@@ -17,4 +17,4 @@ I'm an M.S. student in Computer Science at Northwestern University, specializing
 
 
 ## 📫 Let's Connect:
-- **Email**: TianweiBao2025@u.northwestern.edu
+- **Email**: tianwei.bao@duke.edu
