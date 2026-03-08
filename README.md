@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an M.S. student in Computer Science at Northwestern University, specializing in **robotics**
+I’m a PhD student in Robotics (MEMS) at Duke University.
 
 ## 🔭 My research interests lie at the intersection of cutting-edge fields like:
 
